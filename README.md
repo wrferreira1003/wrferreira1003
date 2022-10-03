@@ -50,3 +50,6 @@
  A House Rocket é uma plataforma digital que tem como modelo de negócio, a compra e a venda de imóveis usando tecnologia. O CEO da House Rocket gostaria de maximizar a receita da empresa encontrando boas oportunidades de negócio.
 Desenvolvi uma análise exploratória buscando identificar casas com potencial de compra e venda conforme regras de negócio. Além disso desenvolvi um site hospedado em Cloud para que o time de negócio possa realizar filtros e visualizar os dados, assim como também a localização de cada imóvel.
 
+### Study-projects:
+
+### Financial-analysis-projects:
