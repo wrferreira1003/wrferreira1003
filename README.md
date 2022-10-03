@@ -43,4 +43,4 @@
 ## DataScience Projects:
 
 ### Project Insights – House Rocket
-* [Project Insights – House Rocket]([http://www.dropwizard.io/1.0.2/docs/](https://github.com/wrferreira1003/project_insight_house_rocket)) - Project Insights – House Rocket
+* Project Insights – House Rocket - [Project Insights – House Rocket](https://github.com/wrferreira1003/project_insight_house_rocket)
