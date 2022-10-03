@@ -1,4 +1,4 @@
-![estrategia](https://image.shutterstock.com/image-illustration/data-science-concept-people-scene-600w-2186009091.jpg)
+![estrategia](imagem.png)
 
 ### Wellington Rodrigues Ferreira - [Data Scientist]
 
