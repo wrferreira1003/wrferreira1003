@@ -1,3 +1,5 @@
+![estrategia](https://image.shutterstock.com/image-illustration/data-science-concept-people-scene-600w-2186009091.jpg)
+
 ### Wellington Rodrigues Ferreira - [Data Scientist]
 
 ## I'm a Systems Developer turned Data Scientist and I love leveraging data-driven solutions that impact business and society!
