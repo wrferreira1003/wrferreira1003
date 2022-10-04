@@ -58,6 +58,8 @@ Contextualização: A Rossmann é uma das maiores redes de farmácias da Europa,
 Os dados utilizados neste projeto são reais, e foram disponibilizados pela própria Rossmanm através do site Kaggle, para uma competição de ciência de dados. Foram disponibilizados 1.017.209 registros de vendas, contendo 18 características de cada venda.
 O contexto de negócios é fictício, porém descreve um problema real de uma grande varejista: As previsões de vendas da Rossmann, eram até antes deste projeto realizadas por meio de planilhas de histórico de venda, através de uma média móvel. A taxa de erros da previsão de vendas de toda a rede ficava na média de 36%, chegando a até 60% nas lojas mais recentes.
 
-### Study-projects:
 
 ### Financial-analysis-projects:
+
+### Study-projects:
+
