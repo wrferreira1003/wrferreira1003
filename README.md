@@ -56,8 +56,17 @@ Desenvolvi uma análise exploratória buscando identificar casas com potencial d
 Projeto de Previsão de Vendas de uma rede de farmácias.
 Contextualização: A Rossmann é uma das maiores redes de farmácias da Europa, possuindo mais de 4.000 lojas, e 56 mil colaboradores até 2020.
 Os dados utilizados neste projeto são reais, e foram disponibilizados pela própria Rossmanm através do site Kaggle, para uma competição de ciência de dados. Foram disponibilizados 1.017.209 registros de vendas, contendo 18 características de cada venda.
+
 O contexto de negócios é fictício, porém descreve um problema real de uma grande varejista: As previsões de vendas da Rossmann, eram até antes deste projeto realizadas por meio de planilhas de histórico de venda, através de uma média móvel. A taxa de erros da previsão de vendas de toda a rede ficava na média de 36%, chegando a até 60% nas lojas mais recentes.
 
+### Project – Health Insurance Cross-Sell Prediction
+* [Project – Health Insurance Cross-Sell Prediction](https://github.com/wrferreira1003/-health-insurance-cross-sell.pa004)
+
+Projeto de rankeamento de clientes interessados na aquisição de um seguro veicular.
+Contextualização: A empresa Insurance All é uma CIA de seguros de saúde e esta interessado em aproveitar os clientes que ja tem para tentar vender um novo produto, que seria um seguro de veiculo, para isso a empresa realizou uma pesquisa onde ela obteve o retorno de 304 mil clientes sobre o interesse em adquirir ou não o novo produto (Seguro veicular).
+A partir dos 304 mil dados da pesquisa, onde temos os clientes que estão ou não interessados no seguro de automovel, construi um ranking por ordem de interesse (propensão de compra) dos 76 mil potenciais clientes que não responderam a pesquisa.
+
+O contexto do negoócio é fictício, porem todo o planejamento e desenvolvimento da solução é realizado seguindo todos os passos de um projeto real para o mercado de trabalho.
 
 ### Financial-analysis-projects:
 
