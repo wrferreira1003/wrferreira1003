@@ -78,6 +78,10 @@ Os dados do projeto foram obtidos do kaggle, do desafio "airnbn_predict_first-bo
 O contexto do negócio é fictício, porem todo o planejamento e desenvolvimento da solução esta sendo realizado seguindo todos os passos de um projeto real para o mercado de trabalho utilizando a metodologia CRISP-DS.
 
 ### Financial-analysis-projects:
+* [Financial-analysis-projects](https://github.com/wrferreira1003/Financial-analysis-projects)
 
-### Study-projects:
+### Projects study:
+Pequenos projetos e testes simples na linguagem python
+* [Project – airnbn_predict_first-booking](https://github.com/wrferreira1003/Study-projects)
 
+### Statistical Study
