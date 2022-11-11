@@ -85,3 +85,6 @@ Pequenos projetos e testes simples na linguagem python
 * [Project – airnbn_predict_first-booking](https://github.com/wrferreira1003/Study-projects)
 
 ### Statistical Study
+
+* [Statistical Study](https://github.com/wrferreira1003/statistical-study)
+
